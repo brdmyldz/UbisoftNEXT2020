@@ -1,0 +1,12 @@
+﻿  GameTest.cpp
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(108,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(127,50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(145,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(154,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(236,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ArdentIT\Desktop\NextAPI2020\GameTest\GameTest.cpp(262,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PlayerState.cpp
+  Generating Code...
+  GameTest.vcxproj -> C:\Users\ArdentIT\Desktop\NextAPI2020\x64\Debug\GameTest.exe
+  C:\Users\ArdentIT\Desktop\NextAPI2020\\GameTest\glut\bin\x64\freeglut.dll
+  1 File(s) copied
